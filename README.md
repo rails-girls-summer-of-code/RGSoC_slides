@@ -5,3 +5,6 @@ Are you a Rails Girls Summer of Code student and up for a (lightning) talk at a 
 How to go about this? Well... ```git clone``` this repo and use it for your own purposes. 
 
 Good luck! (or: break a leg!)
+
+
+Huge thanks to @bioshrimp for the awesome artwork.
