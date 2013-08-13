@@ -5,82 +5,121 @@
 ####Showcase your project
 
 ####Data!
- officially started:
-1.july
+Rails Girls Summer of Code helps Rails Girls students get into Open Source. Just like in Google Summer of Code and Ruby Summer of Code, students will be paid so they're free to work on Open Source projects for a few months. Unlike those programs, the Rails Girls Summer of Code is about helping students to further expand their knowledge and skills by contributing to a great Open Source project (rather than producing highly sophisticated code).
+Rails Girls Summer of Code officially started July 1st.  
 
-how many students
-teams-app
+#####13 teams
+#####25 students
+#####26 coaches
+#####20 mentors
+#####9 supervisors
+#####2 speaker coaches
 
-coaches
-mentors
-supervisers
-speaker coaches
+#####Projects:
+Hackety Hack  
+Species+ API client  
+Bundler  
+Rails app generator (for the Rails Girls guides)  
+Diaspora  
+Sinatra  
+Farmsubsidy  
+impress.js  
+Conductor  
+RailsApps  
+Rubinius  
+Spree  
+Personal Portal Example Application for the RailsApps Project  
+Volontari.at  
+Discourse  
+event_girl  
 
+Team Punchgirls is even creating a web application (a job board) from scratch using Ruby, Cuba and Redis.  
 
-countries:
-http://railsgirlssummerofcode.org/students/
+#####Our students are based in:
+Pennsylvania, USA  
+Fontana, USA  
+London  
+Kraków, Poland  
+Los Angeles  
+Bangalore, India  
+Ajmer, India  
+Berlin  
+Barranquilla, Colombia  
+Buenos Aires, Argentina  
+João Pessoa, Paraíba, Brazil  
 
-http://teams.railsgirlssummerofcode.org/teams
+Applications came from all over the world {img/map.png}
 
-team behing RG SoC
-IRC helpdesk
+#####The Team behind Rails Girls Summer of Code:
+Sven Fuchs  
+Anika Lindtner  
+Robin Böning  
+Lucas "medk" Pinto  
+Fanny Krebs  
+Floor Drees  
+Fritz Thielemann  
+Kerstin Kollman  
+Cristina Santamarina  
+katrin-k  
+
+And then there are the great (30!) people hanging around in the helpdesk channel on IRC.
 
 ####Sponsors
 
 #####Platinum
-[Travis][1] - Lead support and organization.
-[GitHub][2]
+[Travis][1] - Lead support and organization.  
+[GitHub][2]  
 
 #####Gold
-[37signals][3]
-[Tilde][4]
-[Google Open Source][5]
-[SoundCloud][6]
+[37signals][3]  
+[Tilde][4]  
+[Google Open Source][5]  
+[SoundCloud][6]  
 
 #####Silver
-[envato][7]
-[innoQ][8]
-[shopify][9]
-[JumpstartLab][10]
-[AuPairWorld][11]
-[SUPADUPA][12]
-[Engine Yard][13]
-[anynines][14]
-[Groupon][15]
-[GNIP][16]
-[DaWanda][17]
+[envato][7]  
+[innoQ][8]  
+[shopify][9]  
+[JumpstartLab][10]  
+[AuPairWorld][11]  
+[SUPADUPA][12]  
+[Engine Yard][13]  
+[anynines][14]  
+[Groupon][15]  
+[GNIP][16]  
+[DaWanda][17]  
 
 #####Bronze
-[DockYard][18]
-[Confreaks][19]
-[Wooga][20]
-[Wimdu][21]
-[Pivotal Labs][22]
-[upworthy][23]
-[Honeybadger][24]
-[Bendyworks][25]
-[rackspace][26]
-[codegram][27]
-[nedap][28]
-[Front Foot][29]
-[Readmill][30]
+[DockYard][18]  
+[Confreaks][19]  
+[Wooga][20]  
+[Wimdu][21]  
+[Pivotal Labs][22]  
+[upworthy][23]  
+[Honeybadger][24]  
+[Bendyworks][25]  
+[rackspace][26]  
+[codegram][27]  
+[nedap][28]  
+[Front Foot][29]  
+[Readmill][30]  
 
-#####Conferences
-[Arrrrcamp][31]
-[devcon][32]
-[Distill][33]
-[dotRB][34]
-[eurucamp][35]
-[FutureStack][36]
-[jRubyConf][37]
-[Madison Ruby][38]
-[Rails Israel][39]
-[Ruby Shift][40]
-[rupy][41]
-[socoded][42]
-[StarTech][43]
-[StrangeLoop][44]
-[Wicked Good Ruby][45]
+#####Conferences  
+[Arrrrcamp][31]  
+[devcon][32]  
+[Distill][33]  
+[dotRB][34]  
+[eurucamp][35]  
+[FutureStack][36]  
+[jRubyConf][37]  
+[Madison Ruby][38]  
+[Rails Israel][39]  
+[Ruby Shift][40]  
+[rupy][41]  
+[socoded][42]  
+[StarTech][43]  
+[StrangeLoop][44]  
+[Wicked Good Ruby][45]  
 
 
 ####Questions!
