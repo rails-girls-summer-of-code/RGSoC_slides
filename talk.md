@@ -8,8 +8,8 @@
 Rails Girls Summer of Code helps Rails Girls students get into Open Source. Just like in Google Summer of Code and Ruby Summer of Code, students will be paid so they're free to work on Open Source projects for a few months. Unlike those programs, the Rails Girls Summer of Code is about helping students to further expand their knowledge and skills by contributing to a great Open Source project (rather than producing highly sophisticated code).
 Rails Girls Summer of Code officially started July 1st.  
 
-#####13 teams
-#####25 students
+#####18 teams
+#####33 students
 #####26 coaches
 #####20 mentors
 #####9 supervisors
