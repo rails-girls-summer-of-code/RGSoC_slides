@@ -13,7 +13,7 @@ Rails Girls Summer of Code officially started July 1st.
 #####26 coaches
 #####20 mentors
 #####9 supervisors
-#####2 speaker coaches
+#####10 speaker coaches
 
 #####Projects:
 Hackety Hack  
