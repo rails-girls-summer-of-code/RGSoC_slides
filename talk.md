@@ -120,7 +120,7 @@ And then there are the great (30!) people hanging around in the helpdesk channel
 [StarTech][43]  
 [StrangeLoop][44]  
 [Wicked Good Ruby][45]  
-
+[CSSconf.eu][46]
 
 ####Questions!
 
@@ -170,3 +170,4 @@ And then there are the great (30!) people hanging around in the helpdesk channel
 [43]: http://www.startechconf.com/
 [44]: https://thestrangeloop.com/
 [45]: http://wickedgoodruby.com/
+[46]: http://2013.cssconf.eu/index.html 
