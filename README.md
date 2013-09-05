@@ -5,7 +5,7 @@ Are you a Rails Girls Summer of Code student and up for a (lightning) talk at a 
 How to go about this? Well... ```git clone``` this repo and use it for your own purposes. 
 Or just download the files: example_slides.key or example_slides.pdf.
 
-We included all sponsors here, but for a lightning talk, the first slide with the platinum & gold sponsors is really really enough.
+IMPORTANT NOTE: We included all sponsors here, but for a lightning talk, the first slide with the platinum & gold sponsors is really really enough.
 
 Good luck! (or: break a leg!)
 
