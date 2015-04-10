@@ -58,7 +58,7 @@ Lucas "medk" Pinto
 Fanny Krebs  
 Floor Drees  
 Fritz Thielemann  
-Kerstin Kollman  
+Kerstin Kollmann  
 Cristina Santamarina  
 katrin-k  
 
