@@ -1,108 +1,91 @@
-###Hi, we are team {x} working on {x}.
+##Hi, we are team {x} working on {x}.
 
-####Introduce yourselves
+###Introduce yourselves
 
-####Showcase your project
+###Showcase your project
 
-####Data!
-Rails Girls Summer of Code helps Rails Girls students get into Open Source. Just like in Google Summer of Code and Ruby Summer of Code, students will be paid so they're free to work on Open Source projects for a few months. Unlike those programs, the Rails Girls Summer of Code is about helping students to further expand their knowledge and skills by contributing to a great Open Source project (rather than producing highly sophisticated code).
-Rails Girls Summer of Code officially started July 1st.  
+###Data!
+Rails Girls Summer of Code helps Rails Girls students get into Open Source. Just like in Google Summer of Code and Ruby Summer of Code, students will be paid so they're free to work on Open Source projects for three months – from July to September. Unlike those programs, the Rails Girls Summer of Code is about helping students to further expand their knowledge and skills by contributing to a great Open Source project (rather than producing highly sophisticated code).  
+Each team is comprised of two students and has the support of local coaches and a supervisor. Some teams even have a coaching company (that hosts them and offers their coaches)
+As of 2015, Rails Girls Summer of Code is in its third year!  
 
-#####18 teams
-#####33 students
-#####26 coaches
-#####20 mentors
-#####9 supervisors
-#####10 speaker coaches
+#### This year's stats:
+#####20 teams
+#####40 students
+#####67 coaches
+#####26 project mentors
+#####16 supervisors
 
 #####Projects:
-Hackety Hack  
-Species+ API client  
-Bundler  
-Rails app generator (for the Rails Girls guides)  
+Hoodie  
+Speakerinnen  
 Diaspora  
-Sinatra  
-Farmsubsidy  
+Rails Girls Summer of Code Teams App  
+Diaspora  
 impress.js  
-Conductor  
-RailsApps  
-Rubinius  
-Spree  
-Personal Portal Example Application for the RailsApps Project  
-Volontari.at  
+RailsAdmin  
+LEAP  
+OSEM  
 Discourse  
-event_girl  
+Exercism.io  
+RubyGems Adoption Center  
+CocoaPods  
+Official Ruby Documentation Redesign  
+Lotus  
+..and more 
 
-Team Punchgirls is even creating a web application (a job board) from scratch using Ruby, Cuba and Redis.  
 
 #####Our students are based in:
-Pennsylvania, USA  
-Fontana, USA  
-London  
-Kraków, Poland  
-Los Angeles  
-Bangalore, India  
-Ajmer, India  
-Berlin  
+Berlin, Germany  
+Vienna, Austria  
+Colima, Mexico  
+Warsaw, Poland  
 Barranquilla, Colombia  
-Buenos Aires, Argentina  
-João Pessoa, Paraíba, Brazil  
+Nairobi, Kenya  
+Coimbra, Portugal  
+Seattle, USA  
+Kochi, India  
+Amsterdam, Netherlands  
+Luxembourg, Luxembourg  
+San Francisco, USA  
+Sofia, Bulgaria  
+Melbourne, Australia  
+Hamburg, Germany  
+Delhi, India  
+Quito, Ecuador  
+
 
 Applications came from all over the world {img/map.png}
 
 #####The Team behind Rails Girls Summer of Code:
-Sven Fuchs  
 Anika Lindtner  
-Robin Böning  
-Lucas "medk" Pinto  
-Fanny Krebs  
-Floor Drees  
-Fritz Thielemann  
-Kerstin Kollmann  
-Cristina Santamarina  
+Sara Regan  
+Laura Gaetano  
 katrin-k  
+Carsten Zimmermann
+Sven Fuchs
+Floor Drees  
+Ramon Huidobro
+Fritz Thielemann  
 
-And then there are the great (30!) people hanging around in the helpdesk channel on IRC.
+
+And then there are the great people hanging around in the helpdesk channel on Slack.
+
+####Partners
+[Travis][1] - Lead support and organization.  
+[GitHub][2]  
 
 ####Sponsors
 
 #####Platinum
-[Travis][1] - Lead support and organization.  
-[GitHub][2]  
+[Mandrill][3]  
+[LIIP][4]  
 
 #####Gold
-[37signals][3]  
-[Tilde][4]  
 [Google Open Source][5]  
 [SoundCloud][6]  
-
-#####Silver
-[envato][7]  
-[innoQ][8]  
-[shopify][9]  
-[JumpstartLab][10]  
-[AuPairWorld][11]  
-[SUPADUPA][12]  
-[Engine Yard][13]  
-[anynines][14]  
-[Groupon][15]  
-[GNIP][16]  
-[DaWanda][17]  
-
-#####Bronze
-[DockYard][18]  
-[Confreaks][19]  
-[Wooga][20]  
-[Wimdu][21]  
-[Pivotal Labs][22]  
-[upworthy][23]  
-[Honeybadger][24]  
-[Bendyworks][25]  
-[rackspace][26]  
-[codegram][27]  
-[nedap][28]  
-[Front Foot][29]  
-[Readmill][30]  
+[Basecamp][7]
+[elastic][8]
 
 #####Conferences  
 [Arrrrcamp][31]  
@@ -127,12 +110,13 @@ And then there are the great (30!) people hanging around in the helpdesk channel
 
 [1]: https://github.com/
 [2]: https://travis-ci.org/
-[3]: 37signals.com
-[4]: http://www.tilde.io/
+[3]: http://mandrill.com/
+[4]: https://www.liip.ch/en
 [5]: https://developers.google.com/open-source/
 [6]: https://soundcloud.com/
-[7]: http://www.envato.com/
-[8]: http://www.innoq.com/de
+[7]: https://basecamp.com/
+[8]: http://elastic.co/
+
 [9]: http://www.shopify.com/
 [10]: http://jumpstartlab.com/
 [11]: http://www.aupair-world.net/
