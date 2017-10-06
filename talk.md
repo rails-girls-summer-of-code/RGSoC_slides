@@ -2,71 +2,77 @@
 
 ###Introduce yourselves
 
+#### Examples of things you could talk about:
+
+- how did you meet?
+- how did you get into programming?
+- how did you find your coaches and choose your project together?
+
 ###Showcase your project
 
+#### Examples of things you could bring up:
+
+- present your team! (project mentor, coaches, supervisor, and coaching company if you had one)
+- what features did you work on?
+- what challenges did you encounter, and how did you solve them?
+- what things have you learned during RGSoC?
+
 ###Data!
-Rails Girls Summer of Code helps Rails Girls students get into Open Source. Just like in Google Summer of Code and Ruby Summer of Code, students will be paid so they're free to work on Open Source projects for three months – from July to September. Unlike those programs, the Rails Girls Summer of Code is about helping students to further expand their knowledge and skills by contributing to a great Open Source project (rather than producing highly sophisticated code).  
-Each team is comprised of two students and has the support of local coaches and a supervisor. Some teams even have a coaching company (that hosts them and offers their coaches)
-As of 2015, Rails Girls Summer of Code is in its third year!  
+Rails Girls Summer of Code helps Rails Girls students get into Open Source. Just like in Google Summer of Code and Outreachy, students will be paid so they're free to work on Open Source projects for three months – from July to September. Unlike those programs, RGSoC is about helping students to further expand their knowledge and skills by contributing to a great Open Source project (rather than producing highly sophisticated code).  
+Each team is comprised of two students and has the support of local and remote coaches and a supervisor. Some teams even have a coaching company (that hosts them and offers their coaches).
+As of 2017, Rails Girls Summer of Code is in its fifth year!  
 
 #### This year's stats:
 #####20 teams
 #####40 students
-#####67 coaches
-#####26 project mentors
+#####90 coaches
+#####21 project mentors
 #####16 supervisors
 
 #####Projects:
-Hoodie  
-Speakerinnen  
-Diaspora  
-Rails Girls Summer of Code Teams App  
-Diaspora  
-impress.js  
-RailsAdmin  
-LEAP  
-OSEM  
+Tessel  
+Servo  
+NextCloud  
+Babel.js  
+Processing/p5.js  
+ifme  
 Discourse  
-Exercism.io  
-RubyGems Adoption Center  
-CocoaPods  
-Official Ruby Documentation Redesign  
-Lotus  
+diaspora*  
+Rails Girls Summer of Code Teams App  
+Open Farm  
+re-frame  
 ..and more 
 
 
-#####Our students are based in:
-Berlin, Germany  
-Vienna, Austria  
-Colima, Mexico  
-Warsaw, Poland  
-Barranquilla, Colombia  
-Nairobi, Kenya  
-Coimbra, Portugal  
-Seattle, USA  
-Kochi, India  
+#####Our participants are based in:
 Amsterdam, Netherlands  
-Luxembourg, Luxembourg  
-San Francisco, USA  
-Sofia, Bulgaria  
+Bangalore, India  
+Berlin, Germany  
+Goiânia, Brazil  
+Kegalle, Sri Lanka  
+Kollam, India  
+London, UK  
 Melbourne, Australia  
-Hamburg, Germany  
-Delhi, India  
-Quito, Ecuador  
+Moscow, Russia  
+Nairobi, Kenya  
+New Delhi, India  
+New York, USA  
+Tirana, Albania
 
 
 Applications came from all over the world {img/map.png}
 
 #####The Team behind Rails Girls Summer of Code:
-Anika Lindtner  
-Sara Regan  
+Anika Lindtner   
 Laura Gaetano  
-katrin-k  
-Carsten Zimmermann
+Maria Ronacher  
+Vaishali Thakkar  
+Carsten Zimmermann  
+Ramón Huidobro  
+Max Mulatz  
+Inês Coelho  
+Ulrike Höppner  
 Sven Fuchs
-Floor Drees  
-Ramon Huidobro
-Fritz Thielemann  
 
 
 And then there are the great people hanging around in the helpdesk channel on Slack.
@@ -78,14 +84,11 @@ And then there are the great people hanging around in the helpdesk channel on Sl
 ####Sponsors
 
 #####Platinum
-[Mandrill][3]  
-[LIIP][4]  
+[Nokia][3]   
 
 #####Gold
-[Google Open Source][5]  
-[SoundCloud][6]  
-[Basecamp][7]
-[elastic][8]
+[Google Open Source][4]  
+[Malwarebytes][5]  
 
 #####Conferences  
 [Arrrrcamp][31]  
@@ -110,12 +113,9 @@ And then there are the great people hanging around in the helpdesk channel on Sl
 
 [1]: https://github.com/
 [2]: https://travis-ci.org/
-[3]: http://mandrill.com/
-[4]: https://www.liip.ch/en
-[5]: https://developers.google.com/open-source/
-[6]: https://soundcloud.com/
-[7]: https://basecamp.com/
-[8]: http://elastic.co/
+[3]: http://nokia.com/
+[4]: https://developers.google.com/open-source/
+[5]: https://www.malwarebytes.com/
 
 [9]: http://www.shopify.com/
 [10]: http://jumpstartlab.com/
