@@ -91,22 +91,17 @@ And then there are the great people hanging around in the helpdesk channel on Sl
 [Malwarebytes][5]  
 
 #####Conferences  
-[Arrrrcamp][31]  
-[devcon][32]  
-[Distill][33]  
-[dotRB][34]  
-[eurucamp][35]  
-[FutureStack][36]  
-[jRubyConf][37]  
-[Madison Ruby][38]  
-[Rails Israel][39]  
-[Ruby Shift][40]  
-[rupy][41]  
-[socoded][42]  
-[StarTech][43]  
-[StrangeLoop][44]  
-[Wicked Good Ruby][45]  
-[CSSconf.eu][46]
+[JSFoo][6]  
+[GoTo Copenhagen][7]  
+[Codemotion Berlin][8]  
+[Dev Day][9]  
+[GoTo Berlin][10]  
+[RubyConf Brazil][11]  
+[dotConferences][12]
+[RubyConf India][13]  
+[RubyConf Australia 2018][14]  
+[Open Source Summit Europe][15]  
+[Codeland 2018][16]
 
 ####Questions!
 
@@ -117,42 +112,16 @@ And then there are the great people hanging around in the helpdesk channel on Sl
 [4]: https://developers.google.com/open-source/
 [5]: https://www.malwarebytes.com/
 
-[9]: http://www.shopify.com/
-[10]: http://jumpstartlab.com/
-[11]: http://www.aupair-world.net/
-[12]: http://supadupa.me/
-[13]: https://www.engineyard.com/
-[14]: http://www.anynines.com/
-[15]: https://engineering.groupon.com/
-[16]: http://gnip.com/
-[17]: http://dawanda.com/
-[18]: http://dockyard.com/
-[19]: http://confreaks.com/
-[20]: http://www.wooga.com/
-[21]: http://www.wimdu.com/
-[22]: http://pivotallabs.com/
-[23]: http://www.upworthy.com/
-[24]: https://www.honeybadger.io/
-[25]: http://bendyworks.com/
-[26]: http://developer.rackspace.com/
-[27]: http://www.codegram.com/
-[28]: http://www.nedap.com/
-[29]: http://frontfoot.com.au/
-[30]: https://readmill.com/
-[31]: http://www.arrrrcamp.be/
-[32]: http://devcon-oct13.events.co.il/tracks
-[33]: https://distill.engineyard.com/
-[34]: http://www.dotrb.eu/
-[35]: http://2013.eurucamp.org/
-[36]: http://futurestack.io/
-[37]: http://2013.jrubyconf.eu/#
-[38]: http://madisonruby.org/
-[39]: http://railsisrael2013.events.co.il/tracks
-[40]: http://rubyshift.org/
-[41]: http://13.rupy.eu/
-[42]: http://socoded.com/
-[43]: http://www.startechconf.com/
-[44]: https://thestrangeloop.com/
-[45]: http://wickedgoodruby.com/
-[46]: http://2013.cssconf.eu/index.html 
+[6]: https://jsfoo.in/2017/
+[7]: https://gotocph.com/
+[8]: http://berlin2017.codemotionworld.com/
+[9]: http://www.devday.lk/
+[10]: https://gotober.com/
+[11]: http://eventos.locaweb.com.br/proximos-eventos/rubyconf-2017/#inscrevase?utm_campaign=Evento&utm_source=Blog&utm_medium=own&utm_content=RailGirls+
+[12]: https://www.dotconferences.com/
+[13]: http://rubyconfindia.org/
+[14]: https://rubyconf.org.au/2018
+[15]: http://events.linuxfoundation.org/events/open-source-summit-europe
+[16]: http://codelandconf.com/
+
 
